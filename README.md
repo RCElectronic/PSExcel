@@ -10,7 +10,7 @@ The example requires the user to get data from PowerScheduler.
 In PowerScheduler, go to: Reports, Master Schedule List (don't change options), Submit
 Manually select and copy all the data below the headings, and save into a simple text file.
 
-In the extracted folder named TeacherCourses, double click on TeacherCourses.exe
+Double click on TeacherCoursesVxx.exe
 You will be prompted to open a file. Open the text file you previously saved.
 
 The program will create an Excel spreadsheet in the same directory with the same name as the text file.
