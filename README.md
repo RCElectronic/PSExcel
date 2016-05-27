@@ -2,7 +2,7 @@
 
 TeacherCoursesVxx.exe
 May 2016
-Andrew Colwell (Saint John High School)(andrew.colwell@nbed.nb.ca)
+Andrew Colwell (Saint John High School)
 
 Extract and save the folder on your hard drive.
 
